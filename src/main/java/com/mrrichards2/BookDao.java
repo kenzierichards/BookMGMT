@@ -1,4 +1,4 @@
-package com.capgemini;
+package com.mrrichards2;
 
 import org.springframework.stereotype.Repository;
 
